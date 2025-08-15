@@ -44,5 +44,5 @@ Coffee POS is a sleek, web-based point-of-sale system designed for modern cafés
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Sanji-vinsmoke23/coffee_pos.git
-cd coffee_pos
+git clone https://github.com/Sanji-vinsmoke23/coffe_pos.git
+cd coffe_pos
